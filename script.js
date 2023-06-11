@@ -1,4 +1,4 @@
-const API_KEY = "21e778d69a0a0551664c560f6b0560e0";
+const API_KEY = "********";
 
 $(function(){
   $('#btn').on('click', function() {
